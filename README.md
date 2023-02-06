@@ -1,5 +1,3 @@
-# logo.metamodule.org
-
 # [logo.metamodule.org](https://logo.metamodule.org) 
 
 ## Font
