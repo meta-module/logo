@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Kingthings_Exeter
+font link: http://www.kingthingsfonts.co.uk/fonts/fonts.htm
+font author: Kingthings
+font author site: http://www.kingthingsfonts.co.uk/
+
+
+icon designer: Mike Rowe
+icon designer link: /mikerowewaves
+        
+
+fontColor: {"gradient-0":"#B400BB","gradient-1":"#00AA9D"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#B400BB","gradient-1":"#00AA9D"}
+
+      
